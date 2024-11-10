@@ -25,6 +25,7 @@ Falls die `RPi.GPIO`-Bibliothek noch nicht installiert ist, kannst du sie mit fo
 
 ```bash
 pip install RPi.GPIO
+```
 
 ## Pyhton Code:
 ```bash
